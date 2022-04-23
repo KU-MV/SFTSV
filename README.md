@@ -1,1 +1,1 @@
-# SFTSV
+# SNU
