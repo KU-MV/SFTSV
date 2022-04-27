@@ -1,6 +1,6 @@
 {
   "meta": {
-    "build_url": "https://github.com/reyus2/nextstrain",
+    "build_url": "https://nextstrain.org/community/KU-MV/SFTSV/L",
     "colorings": [
       {
         "key": "gt",
@@ -189,7 +189,7 @@
     "maintainers": [
       {
         "name": "Nam-Hyuk Cho (Seoul National University)",
-        "url": "http://github.com/reyus2"
+        "url": "https://nextstrain.org/community/KU-MV/SFTSV/L"
       }
     ],
     "panels": [
@@ -198,7 +198,7 @@
       "entropy"
     ],
     "title": "Severe fever with thrombocytopenia syndrome virus (SFTSV) L segment",
-    "updated": "2022-03-03"
+    "updated": "2022-04-27"
   },
   "tree": {
     "branch_attrs": {
